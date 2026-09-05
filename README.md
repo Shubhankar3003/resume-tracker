@@ -22,12 +22,12 @@ Tracks candidate stages across `Applied`, `Screening`, `Shortlisted`, `Interview
 
 ## Project Structure
 
-resume_tracker/
-├── db.py           # ChromaDB client & SentenceTransformer initialization
-├── models.py       # Pydantic schemas & ApplicationStatus enum
-├── main.py         # FastAPI endpoints & file parsing logic
-├── seed_data.py    # Sample candidate ingestion script
-└── requirements.txt# Project dependencies
+resume_tracker
+1. db.py           # ChromaDB client & SentenceTransformer initialization
+2. models.py       # Pydantic schemas & ApplicationStatus enum
+3. main.py         # FastAPI endpoints & file parsing logic
+4. seed_data.py    # Sample candidate ingestion script
+5. requirements.txt# Project dependencies
 
 ## Quick Start
 
