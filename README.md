@@ -32,7 +32,6 @@ resume_tracker
 ## Quick Start
 
 # 1. Create the virtual environment
-```bash
 python3 -m venv venv
 
 # 2. Activate the virtual environment
